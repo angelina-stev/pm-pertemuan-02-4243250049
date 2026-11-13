@@ -1,8 +1,8 @@
 # Tugas Rutin 2 - Kasir Console
 
-Nama    :   Angelina S. Saragih
-NIM     :   4243250049
-Kelas   :   PSIK 24C
+Nama    : Angelina S. Saragih
+NIM     : 4243250049
+Kelas   : PSIK 24C
 
 Program kasir sederhana berbasis console. Pengguna mengetik pesanan dalam
 satu baris (contoh `P01x2, P05x1`), lalu program mencetak struk.
@@ -11,7 +11,7 @@ satu baris (contoh `P01x2, P05x1`), lalu program mencetak struk.
 
 ```
 dart run bin/kasir.dart
-
+```
 
 (Harus lewat terminal, bukan DartPad, karena memakai `stdin.readLineSync()`.)
 
